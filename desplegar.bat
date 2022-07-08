@@ -1,0 +1,1 @@
+kill_port 3002 && npm start
